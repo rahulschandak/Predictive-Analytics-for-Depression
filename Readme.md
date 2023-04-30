@@ -9,3 +9,5 @@ Methods:
   - Exploratory Data Analysis
   - Feature Selection
   - Training 5 Supervised Machine Learning prediction models
+
+All details are mentioned in the report pdf.
